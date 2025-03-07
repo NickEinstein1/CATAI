@@ -1,0 +1,10 @@
+# Python pyenv #
+.python-version
+.venv
+venv
+pyenv/
+
+# General build artifacts and local directories #
+Include/
+lib/
+scripts/
